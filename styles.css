@@ -1,0 +1,41 @@
+P{
+    font-weight:bold; 
+    
+}
+
+#top{
+    text-decoration:underline; 
+}
+
+.emphasizetext{
+    font-style:italic;
+    color:rgb(9, 163, 163)
+}
+
+a:visited{
+    color: black;
+    ;
+}
+
+a:link{
+    
+    color:black
+}
+body{
+    background-color:rgb(240, 215, 177);
+    font-family:'Times New Roman', Times, serif, 'Arial Narrow', Arial, sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    border: 5px solid black; 
+    padding:50px;
+    margin: 50px;
+    text-align: center;
+
+}
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+/* This is how you add styling */ 
