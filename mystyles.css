@@ -1,0 +1,69 @@
+ul{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+li {
+  color: black;
+  
+}
+
+
+
+
+.homebg{
+  background-image:url(../assets/img/britlin.jpeg) ;
+ background-repeat: no-repeat;
+  background-position: top center ; 
+  background-size: 700px;
+ 
+}
+
+.common {
+    position: absolute;
+    left: 48px;
+    bottom: 30px;
+    top: 120px;
+    color: rgb(0, 0, 0);
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+  }
+
+
+h1{
+  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ position:absolute;
+ left: 40px;
+ 
+  color: rgb(25, 81, 43);
+
+}
+
+
+h3{
+  color: rgb(25, 81, 43);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  position:absolute;
+  right: 20px;
+  position: absolute; nav-down: 40px;
+  position: absolute;
+  nav-right: 48px;
+  bottom: 30px;
+  top: 120px;
+}
+
+h2 {
+  color: rgb(25, 81, 43);
+  position: absolute; nav-down: auto;
+  
+}
+
+.nav-item
+{
+  color: black;
+}
+
+.navlink{
+  color: black;
+}
